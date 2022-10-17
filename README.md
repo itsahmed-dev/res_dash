@@ -1,6 +1,6 @@
-# starter
+# Responsive Dashboard
 
-A new Flutter project.
+[Responsive Dashboard UI](https://www.youtube.com/watch?v=9bo1V9STW2c)
 
 ## Getting Started
 

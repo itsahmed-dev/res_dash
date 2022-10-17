@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
 
-void main() => runApp(const StarterApp());
+void main() => runApp(const ResDashApp());
 
-class StarterApp extends StatelessWidget {
-  const StarterApp({super.key});
+class ResDashApp extends StatelessWidget {
+  const ResDashApp({super.key});
 
   @override
   Widget build(BuildContext context) {
     return const MaterialApp(
-      title: 'Starter App',
+      title: 'Responsive Dashboard UI',
       home: HomePage(),
     );
   }
